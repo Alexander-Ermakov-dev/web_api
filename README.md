@@ -6,7 +6,7 @@ Apricode Web API - это веб-сервис для управления игр
 
 1. **Клонируйте репозиторий**:
 ``` 
-  git clone https://github.com/Alexander-Ermakov-dev
+  git clone https://github.com/Alexander-Ermakov-dev/web_api.git
 ```
 
 2. Установите зависимости с помощью composer:
